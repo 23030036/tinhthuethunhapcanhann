@@ -11,7 +11,7 @@ st.set_page_config(
 st.image("logo.jpg")
 
 # Thông tin
-st.markdown("### 📝 **TS. VŨ ĐỨC BÌNH**")
+st.markdown("### 📝 **tt**")
 
 st.title("💰 Ứng Dụng Tính Thuế Thu Nhập Cá Nhân")
 st.write(
